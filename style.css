@@ -31,7 +31,9 @@ h1 {
     text-align: center;
     color: white;
 }
-
+.tamu{
+    color: pink;
+}
 input {
     margin: 0 auto;
     display: block;
